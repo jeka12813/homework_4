@@ -1,0 +1,17 @@
+.ok{
+    color: rgb(0, 255, 76);
+}
+.error{
+    color: rgb(255, 94, 0);
+}
+.btnbtn{
+    background:red;
+}
+.modal{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    
+    bottom: 0;
+    background:rgba(235, 4, 4,0.3);
+}
